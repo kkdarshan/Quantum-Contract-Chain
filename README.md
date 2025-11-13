@@ -155,9 +155,8 @@ QuantumContractChainV3/
 └── README.md               # Documentation
 
 
----
 
-⚙ Setup Instructions
+Setup Instructions
 
 1. Install MySQL
 
@@ -176,7 +175,6 @@ private static final String DB_USER = "root";
 private static final String DB_PASS = "YOUR_PASSWORD";
 
 
----
 
 3. Run the Project
 
@@ -184,9 +182,8 @@ javac Main.java
 java Main
 
 
----
 
-🌐 Web Endpoints
+Web Endpoints
 
 ➤ Homepage
 
@@ -217,9 +214,8 @@ http://localhost:8000/
 /delete
 
 
----
 
-🧠 How the System Works (In Simple Steps)
+How the System Works (In Simple Steps)
 
 1️⃣ User enters contract (owner + data)
 2️⃣ System hashes data → stores hash in blockchain
@@ -230,9 +226,9 @@ http://localhost:8000/
 7️⃣ Admin can decrypt + verify anytime
 
 
----
 
-🛡 Security Highlights
+
+Security Highlights
 
 SHA-256 hashing
 
@@ -248,9 +244,7 @@ Tamper-evident structure
 
 
 
----
-
-🧭 Future Improvements
+Future Improvements:
 
 Integrate real Post-Quantum Cryptography (Kyber/Dilithium)
 
@@ -266,12 +260,10 @@ Full web UI using React or Angular
 
 
 
----
-
-📜 License
+License:
 
 This project is open-source.
 You may modify, use, or extend it for educational or research purposes.
 
 
----
+------
