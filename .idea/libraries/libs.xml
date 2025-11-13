@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/QuantumContractChainV2/libs/slf4j-api-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuantumContractChainV2/libs/slf4j-simple-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuantumContractChainV2/libs/spark-core-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuantumContractChainV2/libs/jetty-http-9.4.51.v20230217.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuantumContractChainV2/libs/javax.servlet-api-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuantumContractChainV2/libs/gson-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuantumContractChainV2/libs/jetty-io-9.4.51.v20230217.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuantumContractChainV2/libs/jetty-util-9.4.51.v20230217.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuantumContractChainV2/libs/jetty-server-9.4.51.v20230217.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

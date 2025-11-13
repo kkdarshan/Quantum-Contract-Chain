@@ -1,0 +1,66 @@
+/* QuantumContractChain - style.css */
+
+body {
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  color: #00e0ff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 40px;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  text-shadow: 0 0 15px #00e0ff;
+}
+
+input[type="text"] {
+  width: 300px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid #00e0ff;
+  background-color: #111;
+  color: white;
+  font-size: 1em;
+  outline: none;
+}
+
+button {
+  background-color: #00e0ff;
+  border: none;
+  color: #000;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 0 15px #00e0ff;
+}
+
+button:hover {
+  background-color: #0ff;
+  box-shadow: 0 0 25px #00e0ff, 0 0 50px #00e0ff;
+}
+
+textarea {
+  width: 80%;
+  height: 200px;
+  background-color: #111;
+  border: 2px solid #00e0ff;
+  color: #00ffff;
+  padding: 10px;
+  border-radius: 10px;
+  font-family: 'Consolas', monospace;
+  font-size: 1em;
+  margin-top: 20px;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 20px;
+  padding: 30px;
+  display: inline-block;
+  box-shadow: 0 0 30px rgba(0, 255, 255, 0.2);
+}
